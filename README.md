@@ -6,7 +6,9 @@ This app is a demonstration of live air quality index of cities. App subscibe to
 2. User Interface - SwiftUI
 3. Combine framework and delegation.
 
-# Screen shots and video
+# Video
+https://user-images.githubusercontent.com/47859294/156349083-25c97fc6-37f2-46d2-bcd7-6b067ef8acfc.mp4
+
 # City List (Light and Dark Mode)
 ![CityList](https://user-images.githubusercontent.com/47859294/156344328-e01053b2-89c2-4d98-9c8f-5cc04bb90d7f.png) ![City List Dark Mode](https://user-images.githubusercontent.com/47859294/156344347-54fa4899-283b-4a14-bdee-a6d033f5b257.png) 
 
