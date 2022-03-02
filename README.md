@@ -18,3 +18,13 @@ https://user-images.githubusercontent.com/47859294/156349083-25c97fc6-37f2-46d2-
 ### iPad version
 ![iPad version](https://user-images.githubusercontent.com/47859294/156344393-052b7d67-ea1a-4e1a-8df2-93c60a389fa7.png)
 
+### Third Party 
+1. Package  - https://github.com/AppPear/ChartView for graph
+2. Cocoapod - https://github.com/daltoniam/Starscream for Web socket subscription.
+3. GaugeKit - for gauge view of AQI
+
+### TODO :
+1. Bar colour based on AQI.
+2. Search on cities.
+3. Bar graph to include time.
+
