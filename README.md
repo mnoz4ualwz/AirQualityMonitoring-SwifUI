@@ -8,12 +8,17 @@ This app is a demonstration of live air quality index of cities. App subscibe to
 
 # Screen shots and video
 # City List
-![CityList](https://user-images.githubusercontent.com/47859294/156339231-b2e81b81-ff67-4ba1-80be-c04f2405bb83.png)
+![CityList](https://user-images.githubusercontent.com/47859294/156344328-e01053b2-89c2-4d98-9c8f-5cc04bb90d7f.png)
+
 # City List Dark Mode
-![City List Dark Mode](https://user-images.githubusercontent.com/47859294/156339253-2474b623-540b-49a6-9ac2-4f13234e8cbc.png)
+![City List Dark Mode](https://user-images.githubusercontent.com/47859294/156344347-54fa4899-283b-4a14-bdee-a6d033f5b257.png)
+
 # City Details
-![City Detail](https://user-images.githubusercontent.com/47859294/156339281-68395efd-c056-4e3b-a994-5d91336df68d.png)
+![City Detail](https://user-images.githubusercontent.com/47859294/156344369-27f28aa6-e26a-4721-bed9-6b4aff622c16.png)
+
 # City Details in circle view
-![City Detail Circle View](https://user-images.githubusercontent.com/47859294/156339318-0e8b02ce-d620-4ce9-b1f2-1de59fa20efe.png)
+![City Detail Circle View](https://user-images.githubusercontent.com/47859294/156344384-3e376d01-3835-474a-89a8-3cf1078ba7e0.png)
+
 # iPad version
-![iPad version](https://user-images.githubusercontent.com/47859294/156341502-58d0b50d-92b7-46f5-abb2-b33798b98807.png)
+![iPad version](https://user-images.githubusercontent.com/47859294/156344393-052b7d67-ea1a-4e1a-8df2-93c60a389fa7.png)
+
